@@ -1,0 +1,15 @@
+const String BaseUrl = "https://dev-panenineifkm.microgen.id/function";
+const String main_httpLink = "https://dev-panenineifkm.microgen.id/graphql";
+const String Api = "https://dev-panenineifkm.microgen.id/api";
+const String Host = "dev-panenineifkm.microgen.id";
+const String login = "$BaseUrl/http/login";
+const String registerPetani = "$BaseUrl/farmer/register-farmer";
+const String createPetani = "$BaseUrl/field-office/create-farmer";
+const String product = "$Api/products";
+const String addCart = "$Api/item";
+const String getItem = "$BaseUrl/item/items";
+const String getVendorById = "$Api/vendors";
+const String createOrder = "$Api/orders";
+const String changePw = "$BaseUrl/farmer/change-password";
+const String pendaftaranKur = "$BaseUrl/kurs";
+const String oneSignalAppId = "39542b15-f2d0-4d0b-a7c0-c688b54edaf6";
